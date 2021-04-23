@@ -1,4 +1,3 @@
 import  websocket
-ahoj
-ahoj
-ahoj
+prdel
+ss
